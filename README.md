@@ -12,22 +12,19 @@
   </head>
   <body>
     <center>
-    <h1>peiii</h1>
+    <h1>messi</h1>
     </center>
     
     <div class="container">
   <div class="row">
     <div class="col">
-      <img src="![image](https://github.com/claxx4567/ejercicio-1/assets/148280357/9f6a1d1c-3bbd-45c8-a781-9802c55d554b)
-" width="160">
+      <img src="https://m.media-amazon.com/images/I/71l-6DffaXL._AC_UF1000,1000_QL80_.jpg" width="160">
     </div>
     <div class="col order-5">
-       <img src="![image](https://github.com/claxx4567/ejercicio-1/assets/148280357/cff7d730-fe1f-4e33-aa6e-7de09a3d7fd8)
-" width="160">
+       <img src="https://m.media-amazon.com/images/I/71l-6DffaXL._AC_UF1000,1000_QL80_.jpg" width="160">
     </div>
     <div class="col order-1">
-       <img src="![image](https://github.com/claxx4567/ejercicio-1/assets/148280357/4bbbff3f-5fee-4d7a-a21e-05adf5767510)
-" width="160">
+       <img src="https://m.media-amazon.com/images/I/71l-6DffaXL._AC_UF1000,1000_QL80_.jpg" width="160">
     </div>
   </div>
 </div>
