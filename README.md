@@ -12,22 +12,19 @@
   </head>
   <body>
     <center>
-    <h1>cr7</h1>
+    <h1>messi</h1>
     </center>
     
     <div class="container">
   <div class="row">
     <div class="col">
-      <img src="![image](https://github.com/claxx4567/ejercicio-1/assets/148280357/e7a846e9-5593-4114-b6c6-6fbbf257a6e6)
-" width="160">
+      <img src="https://m.media-amazon.com/images/I/71l-6DffaXL._AC_UF1000,1000_QL80_.jpg" width="160">
     </div>
     <div class="col order-5">
-       <img src="![image](https://github.com/claxx4567/ejercicio-1/assets/148280357/aea2e845-7716-495d-aad6-597ae9303fa9)
-" width="160">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcuidrNwM0UDktNP3_J5B38UUl2uY4eNHyVQ&usqp=CAU" width="160">
     </div>
     <div class="col order-1">
-       <img src="![image](https://github.com/claxx4567/ejercicio-1/assets/148280357/23651867-68e9-4816-b305-01082bc6efe4)
-" width="160">
+       <img src="https://m.media-amazon.com/images/I/71l-6DffaXL._AC_UF1000,1000_QL80_.jpg" width="160">
     </div>
   </div>
 </div>
